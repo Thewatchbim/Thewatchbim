@@ -1,16 +1,8 @@
-## Hi there 👋
+<p align="center">
+    <a href="https://cristianmarint.github.io/DEPORCO/"><img src="https://imgur.com/nuQbn48.gif" width="100%" height="auto" ></a>
+</p>
 
-<!--
-**Thewatchbim/Thewatchbim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Cristianmarints's github stats](https://github-readme-stats.vercel.app/api?username=cristianmarint&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
 
-- 😄 Pronouns: ...MR.BIM.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
+⭐️ From [cristianmarint](https://github.com/[cristianmarint])
